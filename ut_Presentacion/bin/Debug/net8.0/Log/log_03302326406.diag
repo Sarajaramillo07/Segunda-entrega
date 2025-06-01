@@ -1,0 +1,14 @@
+2025-03-30T23:40:26.4286128+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.4.3+c252b64ad913ea9411fc5d17bfd5580d2d061497
+2025-03-30T23:40:26.5935346+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-03-30T23:40:26.5980028+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-03-30T23:40:26.5980182+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 23:40:26.188
+2025-03-30T23:40:26.6074987+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 11532
+2025-03-30T23:40:26.6079610+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 8.0.14
+2025-03-30T23:40:26.6080259+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.14\System.Private.CoreLib.dll
+2025-03-30T23:40:26.6080646+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-03-30T23:40:26.6080727+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\La Enana\Documents\CUARTO SEMESTRE\PROGRAMACIÓN\SegundaEntregaCinema\ut_Presentacion\bin\Debug\net8.0\ut_Presentacion.dll
+2025-03-30T23:40:26.6087015+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\La Enana\Documents\CUARTO SEMESTRE\PROGRAMACIÓN\SegundaEntregaCinema\ut_Presentacion\bin\Debug\net8.0\Log --results-directory C:\Users\La Enana\Documents\CUARTO SEMESTRE\PROGRAMACIÓN\SegundaEntregaCinema\TestResults --client-port 55314'
+2025-03-30T23:40:26.6135449+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-03-30T23:40:26.8766333+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-03-30T23:40:26.9018827+00:00 Microsoft.Testing.Platform.Configurations.JsonConfigurationSource+JsonConfigurationProvider INFORMATION Config file 'C:\Users\La Enana\Documents\CUARTO SEMESTRE\PROGRAMACIÓN\SegundaEntregaCinema\ut_Presentacion\bin\Debug\net8.0\ut_Presentacion.testconfig.json' not found.
+2025-03-30T23:40:26.9073838+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False

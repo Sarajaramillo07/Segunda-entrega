@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C642CBA9-0C0C-4FC5-BA37-627D785D6014}|ut_Presentacion\\ut_Presentacion.csproj|c:\\users\\la enana\\documents\\cuarto semestre\\programaci\u00F3n\\segundaentregacinema\\ut_presentacion\\repositorio\\snacksprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C642CBA9-0C0C-4FC5-BA37-627D785D6014}|ut_Presentacion\\ut_Presentacion.csproj|solutionrelative:ut_presentacion\\repositorio\\snacksprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749ED7CF-8E27-41B2-A497-AD12FC6E83D4}|Lib_Dominio\\Lib_Dominio.csproj|c:\\users\\la enana\\documents\\cuarto semestre\\programaci\u00F3n\\segundaentregacinema\\lib_dominio\\entidades\\snacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749ED7CF-8E27-41B2-A497-AD12FC6E83D4}|Lib_Dominio\\Lib_Dominio.csproj|solutionrelative:lib_dominio\\entidades\\snacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C642CBA9-0C0C-4FC5-BA37-627D785D6014}|ut_Presentacion\\ut_Presentacion.csproj|c:\\users\\la enana\\documents\\cuarto semestre\\programaci\u00F3n\\segundaentregacinema\\ut_presentacion\\repositorio\\planesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C642CBA9-0C0C-4FC5-BA37-627D785D6014}|ut_Presentacion\\ut_Presentacion.csproj|solutionrelative:ut_presentacion\\repositorio\\planesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749ED7CF-8E27-41B2-A497-AD12FC6E83D4}|Lib_Dominio\\Lib_Dominio.csproj|c:\\users\\la enana\\documents\\cuarto semestre\\programaci\u00F3n\\segundaentregacinema\\lib_dominio\\entidades\\planes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749ED7CF-8E27-41B2-A497-AD12FC6E83D4}|Lib_Dominio\\Lib_Dominio.csproj|solutionrelative:lib_dominio\\entidades\\planes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C642CBA9-0C0C-4FC5-BA37-627D785D6014}|ut_Presentacion\\ut_Presentacion.csproj|c:\\users\\la enana\\documents\\cuarto semestre\\programaci\u00F3n\\segundaentregacinema\\ut_presentacion\\repositorio\\detalles_snacksprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C642CBA9-0C0C-4FC5-BA37-627D785D6014}|ut_Presentacion\\ut_Presentacion.csproj|solutionrelative:ut_presentacion\\repositorio\\detalles_snacksprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C642CBA9-0C0C-4FC5-BA37-627D785D6014}|ut_Presentacion\\ut_Presentacion.csproj|c:\\users\\la enana\\documents\\cuarto semestre\\programaci\u00F3n\\segundaentregacinema\\ut_presentacion\\repositorio\\codigocomprasprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C642CBA9-0C0C-4FC5-BA37-627D785D6014}|ut_Presentacion\\ut_Presentacion.csproj|solutionrelative:ut_presentacion\\repositorio\\codigocomprasprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749ED7CF-8E27-41B2-A497-AD12FC6E83D4}|Lib_Dominio\\Lib_Dominio.csproj|c:\\users\\la enana\\documents\\cuarto semestre\\programaci\u00F3n\\segundaentregacinema\\lib_dominio\\entidades\\detalles_snacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749ED7CF-8E27-41B2-A497-AD12FC6E83D4}|Lib_Dominio\\Lib_Dominio.csproj|solutionrelative:lib_dominio\\entidades\\detalles_snacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749ED7CF-8E27-41B2-A497-AD12FC6E83D4}|Lib_Dominio\\Lib_Dominio.csproj|c:\\users\\la enana\\documents\\cuarto semestre\\programaci\u00F3n\\segundaentregacinema\\lib_dominio\\entidades\\codigocompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749ED7CF-8E27-41B2-A497-AD12FC6E83D4}|Lib_Dominio\\Lib_Dominio.csproj|solutionrelative:lib_dominio\\entidades\\codigocompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C642CBA9-0C0C-4FC5-BA37-627D785D6014}|ut_Presentacion\\ut_Presentacion.csproj|c:\\users\\la enana\\documents\\cuarto semestre\\programaci\u00F3n\\segundaentregacinema\\ut_presentacion\\repositorio\\peliculasprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C642CBA9-0C0C-4FC5-BA37-627D785D6014}|ut_Presentacion\\ut_Presentacion.csproj|solutionrelative:ut_presentacion\\repositorio\\peliculasprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C642CBA9-0C0C-4FC5-BA37-627D785D6014}|ut_Presentacion\\ut_Presentacion.csproj|c:\\users\\la enana\\documents\\cuarto semestre\\programaci\u00F3n\\segundaentregacinema\\ut_presentacion\\repositorio\\boletasprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C642CBA9-0C0C-4FC5-BA37-627D785D6014}|ut_Presentacion\\ut_Presentacion.csproj|solutionrelative:ut_presentacion\\repositorio\\boletasprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C642CBA9-0C0C-4FC5-BA37-627D785D6014}|ut_Presentacion\\ut_Presentacion.csproj|c:\\users\\la enana\\documents\\cuarto semestre\\programaci\u00F3n\\segundaentregacinema\\ut_presentacion\\nucleo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C642CBA9-0C0C-4FC5-BA37-627D785D6014}|ut_Presentacion\\ut_Presentacion.csproj|solutionrelative:ut_presentacion\\nucleo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9032D9-3355-4CD0-933A-A797B0F2E906}|Lib_Repositorio\\Lib_Repositorio.csproj|c:\\users\\la enana\\documents\\cuarto semestre\\programaci\u00F3n\\segundaentregacinema\\lib_repositorio\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9032D9-3355-4CD0-933A-A797B0F2E906}|Lib_Repositorio\\Lib_Repositorio.csproj|solutionrelative:lib_repositorio\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9032D9-3355-4CD0-933A-A797B0F2E906}|Lib_Repositorio\\Lib_Repositorio.csproj|c:\\users\\la enana\\documents\\cuarto semestre\\programaci\u00F3n\\segundaentregacinema\\lib_repositorio\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9032D9-3355-4CD0-933A-A797B0F2E906}|Lib_Repositorio\\Lib_Repositorio.csproj|solutionrelative:lib_repositorio\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Snacks.cs",
+              "DocumentMoniker": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\Lib_Dominio\\Entidades\\Snacks.cs",
+              "RelativeDocumentMoniker": "Lib_Dominio\\Entidades\\Snacks.cs",
+              "ToolTip": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\Lib_Dominio\\Entidades\\Snacks.cs",
+              "RelativeToolTip": "Lib_Dominio\\Entidades\\Snacks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:42:26.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Planes.cs",
+              "DocumentMoniker": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\Lib_Dominio\\Entidades\\Planes.cs",
+              "RelativeDocumentMoniker": "Lib_Dominio\\Entidades\\Planes.cs",
+              "ToolTip": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\Lib_Dominio\\Entidades\\Planes.cs",
+              "RelativeToolTip": "Lib_Dominio\\Entidades\\Planes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:37:39.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Detalles_Snacks.cs",
+              "DocumentMoniker": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\Lib_Dominio\\Entidades\\Detalles_Snacks.cs",
+              "RelativeDocumentMoniker": "Lib_Dominio\\Entidades\\Detalles_Snacks.cs",
+              "ToolTip": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\Lib_Dominio\\Entidades\\Detalles_Snacks.cs",
+              "RelativeToolTip": "Lib_Dominio\\Entidades\\Detalles_Snacks.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:37:07.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CodigoCompras.cs",
+              "DocumentMoniker": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\Lib_Dominio\\Entidades\\CodigoCompras.cs",
+              "RelativeDocumentMoniker": "Lib_Dominio\\Entidades\\CodigoCompras.cs",
+              "ToolTip": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\Lib_Dominio\\Entidades\\CodigoCompras.cs",
+              "RelativeToolTip": "Lib_Dominio\\Entidades\\CodigoCompras.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:36:08.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PeliculasPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\ut_Presentacion\\Repositorio\\PeliculasPrueba.cs",
+              "RelativeDocumentMoniker": "ut_Presentacion\\Repositorio\\PeliculasPrueba.cs",
+              "ToolTip": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\ut_Presentacion\\Repositorio\\PeliculasPrueba.cs",
+              "RelativeToolTip": "ut_Presentacion\\Repositorio\\PeliculasPrueba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:12:54.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CodigoComprasPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\ut_Presentacion\\Repositorio\\CodigoComprasPrueba.cs",
+              "RelativeDocumentMoniker": "ut_Presentacion\\Repositorio\\CodigoComprasPrueba.cs",
+              "ToolTip": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\ut_Presentacion\\Repositorio\\CodigoComprasPrueba.cs",
+              "RelativeToolTip": "ut_Presentacion\\Repositorio\\CodigoComprasPrueba.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAASwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:12:54.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Detalles_SnacksPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\ut_Presentacion\\Repositorio\\Detalles_SnacksPrueba.cs",
+              "RelativeDocumentMoniker": "ut_Presentacion\\Repositorio\\Detalles_SnacksPrueba.cs",
+              "ToolTip": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\ut_Presentacion\\Repositorio\\Detalles_SnacksPrueba.cs",
+              "RelativeToolTip": "ut_Presentacion\\Repositorio\\Detalles_SnacksPrueba.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAhwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:12:54.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlanesPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\ut_Presentacion\\Repositorio\\PlanesPrueba.cs",
+              "RelativeDocumentMoniker": "ut_Presentacion\\Repositorio\\PlanesPrueba.cs",
+              "ToolTip": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\ut_Presentacion\\Repositorio\\PlanesPrueba.cs",
+              "RelativeToolTip": "ut_Presentacion\\Repositorio\\PlanesPrueba.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAASwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:12:54.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SnacksPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\ut_Presentacion\\Repositorio\\SnacksPrueba.cs",
+              "RelativeDocumentMoniker": "ut_Presentacion\\Repositorio\\SnacksPrueba.cs",
+              "ToolTip": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\ut_Presentacion\\Repositorio\\SnacksPrueba.cs",
+              "RelativeToolTip": "ut_Presentacion\\Repositorio\\SnacksPrueba.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAhwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:12:54.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Configuracion.cs",
+              "DocumentMoniker": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\ut_Presentacion\\Nucleo\\Configuracion.cs",
+              "RelativeDocumentMoniker": "ut_Presentacion\\Nucleo\\Configuracion.cs",
+              "ToolTip": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\ut_Presentacion\\Nucleo\\Configuracion.cs",
+              "RelativeToolTip": "ut_Presentacion\\Nucleo\\Configuracion.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T23:02:38.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BoletasPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\ut_Presentacion\\Repositorio\\BoletasPrueba.cs",
+              "RelativeDocumentMoniker": "ut_Presentacion\\Repositorio\\BoletasPrueba.cs",
+              "ToolTip": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\ut_Presentacion\\Repositorio\\BoletasPrueba.cs",
+              "RelativeToolTip": "ut_Presentacion\\Repositorio\\BoletasPrueba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T23:53:36.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\Lib_Repositorio\\Implementaciones\\Conexion.cs",
+              "RelativeDocumentMoniker": "Lib_Repositorio\\Implementaciones\\Conexion.cs",
+              "ToolTip": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\Lib_Repositorio\\Implementaciones\\Conexion.cs",
+              "RelativeToolTip": "Lib_Repositorio\\Implementaciones\\Conexion.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA0wAwAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:36:24.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IConexion.cs",
+              "DocumentMoniker": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\Lib_Repositorio\\Interfaces\\IConexion.cs",
+              "RelativeDocumentMoniker": "Lib_Repositorio\\Interfaces\\IConexion.cs",
+              "ToolTip": "C:\\Users\\La Enana\\Documents\\CUARTO SEMESTRE\\PROGRAMACI\u00D3N\\SegundaEntregaCinema\\Lib_Repositorio\\Interfaces\\IConexion.cs",
+              "RelativeToolTip": "Lib_Repositorio\\Interfaces\\IConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T01:23:37.559Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
